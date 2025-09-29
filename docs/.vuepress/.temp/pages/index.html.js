@@ -1,3 +1,16 @@
 import comp from "C:/Users/USER/OneDrive/Attachments/Desktop/profile-main/docs/.vuepress/.temp/pages/index.html.vue"
 const data = JSON.parse("{\"path\":\"/\",\"title\":\"Zeravan Qadir Ali\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"About Me\",\"slug\":\"about-me\",\"link\":\"#about-me\",\"children\":[]},{\"level\":2,\"title\":\"Personal Information\",\"slug\":\"personal-information\",\"link\":\"#personal-information\",\"children\":[]},{\"level\":2,\"title\":\"Education\",\"slug\":\"education\",\"link\":\"#education\",\"children\":[]},{\"level\":2,\"title\":\"Computer Skills\",\"slug\":\"computer-skills\",\"link\":\"#computer-skills\",\"children\":[]},{\"level\":2,\"title\":\"Languages\",\"slug\":\"languages\",\"link\":\"#languages\",\"children\":[]},{\"level\":2,\"title\":\"Certification\",\"slug\":\"certification\",\"link\":\"#certification\",\"children\":[]},{\"level\":2,\"title\":\"Experience\",\"slug\":\"experience\",\"link\":\"#experience\",\"children\":[]}],\"git\":{\"contributors\":[{\"name\":\"Zeravan Qadir\",\"username\":\"\",\"email\":\"ensw06522@student.su.edu.krd.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"67b2a7f1355ac126832f16fad174270e903b6133\",\"time\":1759130072000,\"email\":\"ensw06522@student.su.edu.krd.com\",\"author\":\"Zeravan Qadir\",\"message\":\"1\"}]},\"filePathRelative\":\"README.md\"}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

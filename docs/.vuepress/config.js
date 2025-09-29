@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   title: 'Eng. Zeravan Qadir',
   description: 'My first VuePress Site',
-  base: '/profile/',
+  base: '/',
 
   theme: defaultTheme({
 
