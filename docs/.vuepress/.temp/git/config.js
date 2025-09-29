@@ -1,5 +1,5 @@
-import { GitContributors } from "C:/Users/TOTAL TECH/Desktop/New folder/zeravan/profile/node_modules/@vuepress/plugin-git/lib/client/components/GitContributors.js";
-import { GitChangelog } from "C:/Users/TOTAL TECH/Desktop/New folder/zeravan/profile/node_modules/@vuepress/plugin-git/lib/client/components/GitChangelog.js";
+import { GitContributors } from "C:/Users/USER/OneDrive/Attachments/Desktop/profile-main/node_modules/@vuepress/plugin-git/lib/client/components/GitContributors.js";
+import { GitChangelog } from "C:/Users/USER/OneDrive/Attachments/Desktop/profile-main/node_modules/@vuepress/plugin-git/lib/client/components/GitChangelog.js";
 
 export default {
   enhance: ({ app }) => {

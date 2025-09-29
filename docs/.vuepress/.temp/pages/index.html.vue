@@ -1,4 +1,5 @@
 <template><div><h1 id="zeravan-qadir-ali" tabindex="-1"><a class="header-anchor" href="#zeravan-qadir-ali"><span>Zeravan Qadir Ali</span></a></h1>
+<hr>
 <p><strong>Phone:</strong> 07503609958<br>
 <strong>Email:</strong> <a href="mailto:Mrobot068@gmail.com" target="_blank" rel="noopener noreferrer">Mrobot068@gmail.com</a><br>
 <strong>Location:</strong> Havalan, Erbil</p>
